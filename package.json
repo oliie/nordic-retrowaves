@@ -1,0 +1,22 @@
+{
+  "name": "nordic-retrowaves",
+  "displayName": "Nordic RetroWaves",
+  "description": "A RetroWave theme inspired by the fantastic Nord theme.",
+  "author": "Oliver Praesto",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nordic RetroWaves",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nordic RetroWaves-color-theme.json"
+      }
+    ]
+  }
+}
