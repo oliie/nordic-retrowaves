@@ -19,6 +19,7 @@
     "type": "git",
     "directory": "https://github.com/oliie/nordic-retrowaves.git"
   },
+  "publisher": "oliiep",
   "contributes": {
     "themes": [
       {
