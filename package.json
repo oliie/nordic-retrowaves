@@ -13,6 +13,7 @@
   "galleryBanner": {
     "color": "24202c"
   },
+  "icon": "./moon.png",
   "repository": {
     "type": "git",
     "directory": "https://github.com/oliie/nordic-retrowaves.git"
