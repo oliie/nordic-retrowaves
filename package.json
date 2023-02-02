@@ -11,7 +11,8 @@
     "Themes"
   ],
   "galleryBanner": {
-    "color": "24202c"
+    "color": "24202c",
+    "theme": "dark"
   },
   "icon": "icon.png",
   "repository": {
