@@ -10,6 +10,9 @@
   "categories": [
     "Themes"
   ],
+  "galleryBanner": {
+    "color": "24202c"
+  },
   "repository": {
     "type": "git",
     "directory": "https://github.com/oliie/nordic-retrowaves.git"
